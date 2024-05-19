@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DSPCoder'
+copyright = '2021, DSPCoder'
+author = 'Ninad Kale'
 
 release = '0.1'
 version = '0.1.0'
