@@ -7,13 +7,12 @@ Please checkout our website `https://www.dspcoder.com <https://www.dspcoder.com/
 
 This documentation includes collection of all important questions 
 
-Check out the :doc:`Coding Questions` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`Coding Questions` section for further information
 
 .. note::
 
    This project is under active development.
-Lumache has its documentation hosted on Read the Docs.
+DSPCoder has its documentation hosted on Read the Docs.
 
 Contents
 --------
