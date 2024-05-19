@@ -1,12 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to DSPCoder documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**DSPCoder** is a platform where you can practice questions related to embedded systems and prepare for your interviews. We understand importance of giving crisps content so you can prepare in minimum time with one place to get everything you need and stop wasting time collecting materials
 
-Check out the :doc:`usage` section for further information, including
+Please checkout our website `https://www.dspcoder.com <https://www.dspcoder.com/>`
+
+This documentation includes collection of all important questions 
+
+Check out the :doc:`Coding Questions` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
